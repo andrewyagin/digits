@@ -1,0 +1,4 @@
+.landing-background-image {
+  background-image: url("/app/public/images/landing_background_img.jpg");
+  background-size: cover;
+}
