@@ -9,12 +9,21 @@
 
 
 ### Pages
-Add Contact) Page where you can add a person's contact information
-List Contacts) Pages where the added contacts are listed
-Edit Contact) Page where you can edit existing contacts
-Landing) Homepage
-List Contacts Admin) Where an admin account can list all accounts
-Not Found) Shown when a page is not found
-Sign In) Page to sign into a digits account
-Sign Out) Page that is displayed when signed out
-Sign Up) Page to sign up for an account with digits
+[Add Contact] Page where you can add a person's contact information
+
+[List Contacts] Pages where the added contacts are listed
+
+[Edit Contact] Page where you can edit existing contacts
+
+[Landing] Homepage
+
+[List Contacts Admin] Where an admin account can list all accounts
+
+[Not Found] Shown when a page is not found
+
+[Sign In] Page to sign into a digits account
+
+[Sign Out] Page that is displayed when signed out
+
+
+[Sign Up] Page to sign up for an account with digits
