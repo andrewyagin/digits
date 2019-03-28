@@ -9,7 +9,7 @@ const Notes = new Mongo.Collection('Notes');
 const NoteSchema = new SimpleSchema({
   note: String,
   contactId: String,
-  createdAt: String,
+  createdAt: Date,
   owner: String,
 }, { tracker: Tracker });
 
