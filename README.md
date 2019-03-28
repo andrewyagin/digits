@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<img src="doc/landing.png">
 
-You can use the [editor on GitHub](https://github.com/andrewyagin/digits/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Installation Instructions
+1) <a href="https://www.meteor.com/install">Install Meteor</a>.
+2) Download the <a href="https://github.com/andrewyagin/digits">Digits</a> repository.
+3) cd into the app directory of the digits repository and once there enter 'meteor npm install'.
+4) Once that finishes, type: 'meteor npm run start'.
+5) Press CTRL + C twice in the command line to end the app from running.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Pages
+[Add Contact] Page where you can add a person's contact information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[List Contacts] Pages where the added contacts are listed
 
-```markdown
-Syntax highlighted code block
+[Edit Contact] Page where you can edit existing contacts
 
-# Header 1
-## Header 2
-### Header 3
+[Landing] Homepage
 
-- Bulleted
-- List
+[List Contacts Admin] Where an admin account can list all accounts
 
-1. Numbered
-2. List
+[Not Found] Shown when a page is not found
 
-**Bold** and _Italic_ and `Code` text
+[Sign In] Page to sign into a digits account
 
-[Link](url) and ![Image](src)
-```
+[Sign Out] Page that is displayed when signed out
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrewyagin/digits/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Sign Up] Page to sign up for an account with digits
